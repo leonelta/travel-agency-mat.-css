@@ -23,3 +23,8 @@ M.Autocomplete.init(ac, {
         "Tanzania": null,
     }
 })
+
+//Material boxed
+
+const mb = document.querySelectorAll('.materialboxed');
+M.Materialbox.init(mb, {});
