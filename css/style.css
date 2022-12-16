@@ -13,3 +13,7 @@
     position: relative;
     top: 30% !important;
 }
+
+.card-panel i{
+    color: #1565C0;
+}
